@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and competitiv
 - **Technologies/Frameworks:** Flutter (Intermediate), Spring Boot (Basic), Firebase (Basic), Git/GitHub (Basic)
 
 ## 🤝 Positions of Responsibility
-
+- ![postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) 
 **Android Development Member Lead, GDSC GECB** (September 2023 - Present)  
 - Directed a team of developers to innovate Android applications.
 - Coordinated GDSC Summer of Code (30 Days Coding Challenge) and sessions on Google technologies.
